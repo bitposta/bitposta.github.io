@@ -2,11 +2,11 @@
   "canonical_origin": "https://bitposta.com",
   "outputs": {
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "download/index.html": "60b9b73c2901c08eb6a4a9999b3c0e933f0dceba465bae99829e91e56c1ec07d",
-    "guide/index.html": "c9fe87a49b056643a52c08ffc73e6f4769e27238ce77ff8176180f8d7b470a88",
-    "index.html": "32f03a7287bf361663b61becc23cf27352aae46dbc3afe1e1f0f2adf39464be7",
+    "download/index.html": "6016d58841f1820e37c576f442135545d75442e4c4f0dcef2a663fd593766d6a",
+    "guide/index.html": "27c13e7d547ddd67fc5c1ce23e1c163bacdf550bcd6bdbf9279567ab3a099825",
+    "index.html": "6f7a29edaba655610a961cc3eaa034db7544670c12558fc251227f969a3899fe",
     "robots.txt": "16ceb5ee3e0dc13aa9adf31a3ebbe45a1d965b8c2b9f72eaf84e5911e140ed95",
-    "security/index.html": "00bf6d2f3767ca502e29bc89fdcc883a1cba6baeb7e742fff5d814b45d6a5987",
+    "security/index.html": "2b1aa91d25f71368339e199e8b88d5927c208ae7f6645dc390c4ea2ad4b62278",
     "static/SEAL-LICENSE.md": "03bb2a4489e241eca3067b48074deb085cb540774b115ad9b6750e2cf6e52c2b",
     "static/favicon.png": "6221eaa4bd917014b69673f8c3111810bf38b05beff23fbb8f244fefc2e21511",
     "static/fonts/LICENSE": "4de56cc5fc458113a5704ec4d850191e640396008a6e45ff2a70d67ea6c5c74f",
@@ -22,7 +22,7 @@
     "static/security.js": "f76d306d2e25c677cbc72ec60423fc9cf57c1d73795235f6393e13787ef25418",
     "static/site.css": "e5b7fadbd88f8e5fb3d7c96da322b519b9572e027db311eaa3cdd1ec04f09fa7",
     "static/site.js": "766413966ad30310f2a3a3008a7ba4322fc4737af1d72d61d7cfb05d0a13aba7",
-    "terms/index.html": "268036919a40cf52372830e613aaeb0d5459f963bf1d9a4b643cf2a30002148c"
+    "terms/index.html": "939f68d79ea690d14475d3953d4a44fe16f76695f374722fe93e62cfbcac4b26"
   },
   "pages": [
     {
@@ -82,6 +82,6 @@
     "bitcoin4funsite/templates/index.html": "902647789bc70975c678ce700c4c82a0adc40c3c176c4d0b0b524cf0e9861d02",
     "bitcoin4funsite/templates/security.html": "97ff66c11911e3341da9bfaa48fce68be21fdf16f67bfc1cc77afefee13b8053",
     "bitcoin4funsite/templates/terms.html": "20007ebe40f8c3c9f0919ee3e280fcb2c708d4bd3340a5f1a3ed10fb9c237d3a",
-    "scripts/build_github_pages.py": "e700766005ee63bd8437fdc7117f8f0e4a8484aa3eab3dc08ab65deb12292da0"
+    "scripts/build_github_pages.py": "24c480b250db008fef439c3b57f87b0f1a038649f3157b995ff486cb67dfead6"
   }
 }
